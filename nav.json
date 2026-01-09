@@ -1,0 +1,780 @@
+{
+  "generated_from": "poligon_help.hhc",
+  "root_url": "/articles/userguide/userguide0",
+  "chapters": [
+    {
+      "title": "How this guide is organized",
+      "url": "/articles/userguide/userguide0"
+    },
+    {
+      "title": "Chapter 1. Introduction to POLIGONSOFT",
+      "url": "/articles/userguide/introduction-to-poligonsoft",
+      "items": [
+        {
+          "title": "Purpose of the System",
+          "url": "/articles/userguide/introduction-to-poligonsoft#wf-11"
+        },
+        {
+          "title": "Structure and Modules of the System",
+          "url": "/articles/userguide/introduction-to-poligonsoft#wf-12"
+        },
+        {
+          "title": "Software Licensing",
+          "url": "/articles/userguide/introduction-to-poligonsoft#wf-13",
+          "items": [
+            {
+              "title": "CodeMeter Licensing System",
+              "url": "/articles/userguide/introduction-to-poligonsoft#131",
+              "items": [
+                {
+                  "title": "License Update",
+                  "url": "/articles/userguide/introduction-to-poligonsoft#1311"
+                },
+                {
+                  "title": "Setting Up a Network License",
+                  "url": "/articles/userguide/introduction-to-poligonsoft#1312"
+                },
+                {
+                  "title": "Connecting to an External License Server",
+                  "url": "/articles/userguide/introduction-to-poligonsoft#1313"
+                }
+              ]
+            },
+            {
+              "title": "Guardant Licensing System",
+              "url": "/articles/userguide/introduction-to-poligonsoft#132",
+              "items": [
+                {
+                  "title": "License Update",
+                  "url": "/articles/userguide/introduction-to-poligonsoft#1321"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2. What's New",
+      "url": "/articles/userguide/whats-new",
+      "items": [
+        {
+          "title": "Version 2025.0",
+          "url": "/articles/userguide/whats-new#wf-218"
+        },
+        {
+          "title": "Version 2024.0/2024.1",
+          "url": "/articles/userguide/whats-new#wf-217"
+        },
+        {
+          "title": "Version 2023.0/2023.1",
+          "url": "/articles/userguide/whats-new#wf-216"
+        },
+        {
+          "title": "Version 2022.0",
+          "url": "/articles/userguide/whats-new#wf-215"
+        },
+        {
+          "title": "Version 2021.0",
+          "url": "/articles/userguide/whats-new#wf-214"
+        },
+        {
+          "title": "Version 16.5",
+          "url": "/articles/userguide/whats-new#wf-29"
+        },
+        {
+          "title": "Version 16.0",
+          "url": "/articles/userguide/whats-new#wf-28"
+        },
+        {
+          "title": "Version 15.0",
+          "url": "/articles/userguide/whats-new#wf-27"
+        },
+        {
+          "title": "Version 14.0",
+          "url": "/articles/userguide/whats-new#wf-26"
+        },
+        {
+          "title": "Version 13.4",
+          "url": "/articles/userguide/whats-new#wf-21"
+        },
+        {
+          "title": "Version 13.3.1",
+          "url": "/articles/userguide/whats-new#wf-22"
+        },
+        {
+          "title": "Version 13.3",
+          "url": "/articles/userguide/whats-new#wf-23"
+        },
+        {
+          "title": "Version 13.2",
+          "url": "/articles/userguide/whats-new#wf-24"
+        },
+        {
+          "title": "Version 13.1",
+          "url": "/articles/userguide/whats-new#wf-25"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3. Main System Window",
+      "url": "/articles/userguide/main-system-window",
+      "items": [
+        {
+          "title": "Introduction",
+          "url": "/articles/userguide/main-system-window#wf-31"
+        },
+        {
+          "title": "Module Calls",
+          "url": "/articles/userguide/main-system-window#wf-32"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4. Common Elements of 3D Modules",
+      "url": "/articles/userguide/common-elements-of-3d-modules",
+      "items": [
+        {
+          "title": "3D Modules Window View",
+          "url": "/articles/userguide/common-elements-of-3d-modules#wf-41"
+        },
+        {
+          "title": "Model Tree",
+          "url": "/articles/userguide/common-elements-of-3d-modules#wf-42"
+        },
+        {
+          "title": "Model Display Modes",
+          "url": "/articles/userguide/common-elements-of-3d-modules#wf-43"
+        },
+        {
+          "title": "Section Plane",
+          "url": "/articles/userguide/common-elements-of-3d-modules#wf-44"
+        },
+        {
+          "title": "Rotations",
+          "url": "/articles/userguide/common-elements-of-3d-modules#wf-45"
+        },
+        {
+          "title": "Move/Zoom Toolbar",
+          "url": "/articles/userguide/common-elements-of-3d-modules#wf-46"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5. Data Preparation",
+      "url": "/articles/userguide/data-preparation",
+      "items": [
+        {
+          "title": "Introduction",
+          "url": "/articles/userguide/data-preparation#wf-51"
+        },
+        {
+          "title": "Basic concepts: Volumes, Types, Indexes",
+          "url": "/articles/userguide/data-preparation#wf-511"
+        },
+        {
+          "title": "Toolbars",
+          "url": "/articles/userguide/data-preparation#wf-512",
+          "items": [
+            {
+              "title": "Standard Toolbar",
+              "url": "/articles/userguide/data-preparation#5121"
+            },
+            {
+              "title": "Process Toolbar",
+              "url": "/articles/userguide/data-preparation#5124"
+            },
+            {
+              "title": "Edit Toolbar",
+              "url": "/articles/userguide/data-preparation#5122"
+            },
+            {
+              "title": "Transformation Toolbar",
+              "url": "/articles/userguide/data-preparation#5123"
+            }
+          ]
+        },
+        {
+          "title": "Module Settings",
+          "url": "/articles/userguide/data-preparation#wf-513",
+          "items": [
+            {
+              "title": "General",
+              "url": "/articles/userguide/data-preparation#5131"
+            },
+            {
+              "title": "Special Colors",
+              "url": "/articles/userguide/data-preparation#5132"
+            },
+            {
+              "title": "Graphics",
+              "url": "/articles/userguide/data-preparation#5134"
+            },
+            {
+              "title": "Selection",
+              "url": "/articles/userguide/data-preparation#5137"
+            }
+          ]
+        },
+        {
+          "title": "Preparing the Modeling Area",
+          "url": "/articles/userguide/data-preparation#wf-52",
+          "items": [
+            {
+              "title": "Loading and saving the model",
+              "url": "/articles/userguide/data-preparation#522"
+            },
+            {
+              "title": "Change Model Orientation, Position and Size",
+              "url": "/articles/userguide/data-preparation#526"
+            },
+            {
+              "title": "Materials Assignment",
+              "url": "/articles/userguide/data-preparation#528"
+            },
+            {
+              "title": "Editing Types and Volume Indices",
+              "url": "/articles/userguide/data-preparation#527"
+            },
+            {
+              "title": "Editing Element Indices in the Arbitrary Areas",
+              "url": "/articles/userguide/data-preparation#529"
+            },
+            {
+              "title": "Editing Boundary Indices",
+              "url": "/articles/userguide/data-preparation#5210"
+            },
+            {
+              "title": "Mesh Quality Control",
+              "url": "/articles/userguide/data-preparation#5211"
+            },
+            {
+              "title": "Shells Creation",
+              "url": "/articles/userguide/data-preparation#5212"
+            },
+            {
+              "title": "New Volumes Creation (Extrude Mesh)",
+              "url": "/articles/userguide/data-preparation#5214"
+            },
+            {
+              "title": "Model Information",
+              "url": "/articles/userguide/data-preparation#5213"
+            }
+          ]
+        },
+        {
+          "title": "Mold Filling",
+          "url": "/articles/userguide/data-preparation#wf-56",
+          "items": [
+            {
+              "title": "Preparing the Modeling Area",
+              "url": "/articles/userguide/data-preparation#561"
+            },
+            {
+              "title": "Melt Inlet",
+              "url": "/articles/userguide/data-preparation#562"
+            },
+            {
+              "title": "Prefilled Volumes",
+              "url": "/articles/userguide/data-preparation#563"
+            },
+            {
+              "title": "Solver Stop Parameters",
+              "url": "/articles/userguide/data-preparation#564"
+            }
+          ]
+        },
+        {
+          "title": "Solidification and Porosity",
+          "url": "/articles/userguide/data-preparation#wf-57"
+        },
+        {
+          "title": "Stresses and Deformations",
+          "url": "/articles/userguide/data-preparation#wf-54",
+          "items": [
+            {
+              "title": "Preparing the Modeling Area",
+              "url": "/articles/userguide/data-preparation#541"
+            },
+            {
+              "title": "Removal of gating system elements",
+              "url": "/articles/userguide/data-preparation#542"
+            }
+          ]
+        },
+        {
+          "title": "Radiation Heat Transfer",
+          "url": "/articles/userguide/data-preparation#wf-53"
+        },
+        {
+          "title": "Exothermic Sleeves",
+          "url": "/articles/userguide/data-preparation#wf-59",
+          "items": [
+            {
+              "title": "Exothermic Mixture Model",
+              "url": "/articles/userguide/data-preparation#591"
+            },
+            {
+              "title": "Preparing the Modeling Area",
+              "url": "/articles/userguide/data-preparation#592"
+            }
+          ]
+        },
+        {
+          "title": "Virtual Mold",
+          "url": "/articles/userguide/data-preparation#wf-510"
+        },
+        {
+          "title": "Centrifugal Casting",
+          "url": "/articles/userguide/data-preparation#wf-58",
+          "items": [
+            {
+              "title": "Introduction",
+              "url": "/articles/userguide/data-preparation#581"
+            },
+            {
+              "title": "Limitations of the Model",
+              "url": "/articles/userguide/data-preparation#582"
+            },
+            {
+              "title": "Preparing the Modeling Area",
+              "url": "/articles/userguide/data-preparation#583"
+            }
+          ]
+        },
+        {
+          "title": "Mold Gases",
+          "url": "/articles/userguide/data-preparation#wf-514",
+          "items": [
+            {
+              "title": "Gas Transport Model in the Mold Volume",
+              "url": "/articles/userguide/data-preparation#5141"
+            },
+            {
+              "title": "Preparing the Modeling Area",
+              "url": "/articles/userguide/data-preparation#5142"
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "url": "/articles/userguide/data-preparation#wf-55",
+          "items": [
+            {
+              "title": "Project Overview Tab",
+              "url": "/articles/userguide/data-preparation#551"
+            },
+            {
+              "title": "Data Editors. General Controls and Features",
+              "url": "/articles/userguide/data-preparation#552",
+              "items": [
+                {
+                  "title": "Toolbar Buttons",
+                  "url": "/articles/userguide/data-preparation#5521"
+                },
+                {
+                  "title": "Editing Constants and Functions",
+                  "url": "/articles/userguide/data-preparation#5523"
+                },
+                {
+                  "title": "Computed Parameters",
+                  "url": "/articles/userguide/data-preparation#5522"
+                }
+              ]
+            },
+            {
+              "title": "Material Properties",
+              "url": "/articles/userguide/data-preparation#553",
+              "items": [
+                {
+                  "title": "Composition Tab",
+                  "url": "/articles/userguide/data-preparation#5531"
+                },
+                {
+                  "title": "Flow Tab",
+                  "url": "/articles/userguide/data-preparation#5535"
+                },
+                {
+                  "title": "Thermal Tab",
+                  "url": "/articles/userguide/data-preparation#5532"
+                },
+                {
+                  "title": "Porosity Tab",
+                  "url": "/articles/userguide/data-preparation#5533"
+                },
+                {
+                  "title": "Stress Tab",
+                  "url": "/articles/userguide/data-preparation#5534"
+                },
+                {
+                  "title": "Exothermic Tab",
+                  "url": "/articles/userguide/data-preparation#5536"
+                },
+                {
+                  "title": "Grain Growth Tab",
+                  "url": "/articles/userguide/data-preparation#5537"
+                },
+                {
+                  "title": "Hardenability & CCT Tab",
+                  "url": "/articles/userguide/data-preparation#5538"
+                },
+                {
+                  "title": "Gas Tab",
+                  "url": "/articles/userguide/data-preparation#5539"
+                }
+              ]
+            },
+            {
+              "title": "Heat Transfer Parameters",
+              "url": "/articles/userguide/data-preparation#555"
+            },
+            {
+              "title": "Temperature Modes",
+              "url": "/articles/userguide/data-preparation#557"
+            },
+            {
+              "title": "Dynamic Environment",
+              "url": "/articles/userguide/data-preparation#5510"
+            },
+            {
+              "title": "Translation Modes",
+              "url": "/articles/userguide/data-preparation#5511"
+            },
+            {
+              "title": "Surface Nucleation",
+              "url": "/articles/userguide/data-preparation#5513"
+            },
+            {
+              "title": "Structure Inheritance",
+              "url": "/articles/userguide/data-preparation#5515"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6. Simulation",
+      "url": "/articles/userguide/simulation",
+      "items": [
+        {
+          "title": "Introduction",
+          "url": "/articles/userguide/simulation#wf-67"
+        },
+        {
+          "title": "Common Simulation Parameters",
+          "url": "/articles/userguide/simulation#wf-68"
+        },
+        {
+          "title": "Mold Filling Simulation",
+          "url": "/articles/userguide/simulation#wf-61",
+          "items": [
+            {
+              "title": "Flow Simulation Parameters",
+              "url": "/articles/userguide/simulation#613"
+            }
+          ]
+        },
+        {
+          "title": "Thermal and Porosity Simulation",
+          "url": "/articles/userguide/simulation#wf-62",
+          "items": [
+            {
+              "title": "Thermal Simulation Parameters",
+              "url": "/articles/userguide/simulation#622"
+            },
+            {
+              "title": "Porosity Simulation Parameters",
+              "url": "/articles/userguide/simulation#623"
+            }
+          ]
+        },
+        {
+          "title": "Stress Simulation",
+          "url": "/articles/userguide/simulation#wf-63",
+          "items": [
+            {
+              "title": "Stress Simulation Parameters",
+              "url": "/articles/userguide/simulation#632"
+            },
+            {
+              "title": "Additional Parameters of the Hooke Solver",
+              "url": "/articles/userguide/simulation#636",
+              "items": [
+                {
+                  "title": "General Tab",
+                  "url": "/articles/userguide/simulation#6361"
+                },
+                {
+                  "title": "Calculation stoppage Tab",
+                  "url": "/articles/userguide/simulation#6362"
+                },
+                {
+                  "title": "Diagnostic file creation Tab",
+                  "url": "/articles/userguide/simulation#6364"
+                },
+                {
+                  "title": "Automatic Timestep Tab",
+                  "url": "/articles/userguide/simulation#6365"
+                },
+                {
+                  "title": "Contact Modeling Tab",
+                  "url": "/articles/userguide/simulation#6366"
+                }
+              ]
+            },
+            {
+              "title": "Stress Simulation at subsequent technological stages",
+              "url": "/articles/userguide/simulation#638"
+            },
+            {
+              "title": "About the method of stress simulation",
+              "url": "/articles/userguide/simulation#637"
+            },
+            {
+              "title": "Nodes Fixation",
+              "url": "/articles/userguide/simulation#639"
+            }
+          ]
+        },
+        {
+          "title": "Mold Gas Simulation",
+          "url": "/articles/userguide/simulation#wf-610",
+          "items": [
+            {
+              "title": "Simulation Parameters",
+              "url": "/articles/userguide/simulation#6101"
+            }
+          ]
+        },
+        {
+          "title": "Macrostructure Simulation",
+          "url": "/articles/userguide/simulation#wf-69",
+          "items": [
+            {
+              "title": "Computational Domain",
+              "url": "/articles/userguide/simulation#691"
+            },
+            {
+              "title": "Initial Data of the Thermal Problem",
+              "url": "/articles/userguide/simulation#692"
+            },
+            {
+              "title": "Basic Model Provisions",
+              "url": "/articles/userguide/simulation#693"
+            },
+            {
+              "title": "Grain Growth Model",
+              "url": "/articles/userguide/simulation#694"
+            },
+            {
+              "title": "Grain Nucleation Model",
+              "url": "/articles/userguide/simulation#695"
+            },
+            {
+              "title": "Macrostructure Simulation Parameters",
+              "url": "/articles/userguide/simulation#696",
+              "items": [
+                {
+                  "title": "Computational Domain and Time Range Group",
+                  "url": "/articles/userguide/simulation#6961"
+                },
+                {
+                  "title": "Model Parameters Group",
+                  "url": "/articles/userguide/simulation#6962"
+                },
+                {
+                  "title": "Local Computational Domains (LCD) Group",
+                  "url": "/articles/userguide/simulation#6963"
+                },
+                {
+                  "title": "Results Storage Group",
+                  "url": "/articles/userguide/simulation#6964"
+                },
+                {
+                  "title": "Solver Settings Group",
+                  "url": "/articles/userguide/simulation#6965"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Heat Treatment Simulation",
+          "url": "/articles/userguide/simulation#wf-66",
+          "items": [
+            {
+              "title": "Limitations and Assumptions",
+              "url": "/articles/userguide/simulation#661"
+            },
+            {
+              "title": "Austenite decomposition models",
+              "url": "/articles/userguide/simulation#665"
+            },
+            {
+              "title": "Model Selection and Accuracy",
+              "url": "/articles/userguide/simulation#662"
+            },
+            {
+              "title": "Simulation Parameters",
+              "url": "/articles/userguide/simulation#663"
+            },
+            {
+              "title": "Material Properties",
+              "url": "/articles/userguide/simulation#666"
+            },
+            {
+              "title": "Simulation and Results",
+              "url": "/articles/userguide/simulation#664"
+            }
+          ]
+        },
+        {
+          "title": "Run of the Simulation",
+          "url": "/articles/userguide/simulation#wf-65",
+          "items": [
+            {
+              "title": "Running the Simulation",
+              "url": "/articles/userguide/simulation#651"
+            },
+            {
+              "title": "Continuing an Interrupted Simulation",
+              "url": "/articles/userguide/simulation#652"
+            },
+            {
+              "title": "Batch run of calculations",
+              "url": "/articles/userguide/simulation#653"
+            }
+          ]
+        },
+        {
+          "title": "New Pipe Shrinkage and Macroporosity Model",
+          "url": "/articles/userguide/simulation#wf-64",
+          "items": [
+            {
+              "title": "General Provisions",
+              "url": "/articles/userguide/simulation#641"
+            },
+            {
+              "title": "Solidification of the Open Thermal Hot Spot",
+              "url": "/articles/userguide/simulation#642"
+            },
+            {
+              "title": "Pipe Shrinkage Formation In the Closed Thermal Hot Spot",
+              "url": "/articles/userguide/simulation#643"
+            },
+            {
+              "title": "Macroporosity Formation In the Closed Thermal Hot Spot",
+              "url": "/articles/userguide/simulation#644"
+            },
+            {
+              "title": "Selecting Model Parameters",
+              "url": "/articles/userguide/simulation#645"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7. Viewing Results",
+      "url": "/articles/userguide/viewing-results",
+      "items": [
+        {
+          "title": "Introduction",
+          "url": "/articles/userguide/viewing-results#wf-710"
+        },
+        {
+          "title": "Field Visualization",
+          "url": "/articles/userguide/viewing-results#wf-71",
+          "items": [
+            {
+              "title": "Data loading. Working CommandsTtoolbar",
+              "url": "/articles/userguide/viewing-results#711"
+            },
+            {
+              "title": "Palette and Scale",
+              "url": "/articles/userguide/viewing-results#7110"
+            },
+            {
+              "title": "Visualization of the process",
+              "url": "/articles/userguide/viewing-results#712",
+              "items": [
+                {
+                  "title": "Visualization modes of the simulation fields",
+                  "url": "/articles/userguide/viewing-results#7121"
+                },
+                {
+                  "title": "Additional visualization modes of the casting and the mold",
+                  "url": "/articles/userguide/viewing-results#7122"
+                }
+              ]
+            },
+            {
+              "title": "Visualization control",
+              "url": "/articles/userguide/viewing-results#713"
+            },
+            {
+              "title": "Drawing the curves",
+              "url": "/articles/userguide/viewing-results#714"
+            },
+            {
+              "title": "Creation of the files of \"partially filled\" 3D-geometry",
+              "url": "/articles/userguide/viewing-results#715"
+            },
+            {
+              "title": "Creation of the files of 2D-fields",
+              "url": "/articles/userguide/viewing-results#716"
+            },
+            {
+              "title": "Creating Boundary Condition Files for Stress Simulation",
+              "url": "/articles/userguide/viewing-results#717"
+            },
+            {
+              "title": "Recording the video-clips",
+              "url": "/articles/userguide/viewing-results#718"
+            },
+            {
+              "title": "Editing the simulation results files",
+              "url": "/articles/userguide/viewing-results#719"
+            }
+          ]
+        },
+        {
+          "title": "Visualization of the curves (Mirage-L module)",
+          "url": "/articles/userguide/viewing-results#wf-72"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 8. Results Analysis",
+      "url": "/articles/userguide/results-analysis",
+      "items": [
+        {
+          "title": "Criterial Analysis (Criterion Module)",
+          "url": "/articles/userguide/results-analysis#wf-81",
+          "items": [
+            {
+              "title": "Working window of the module",
+              "url": "/articles/userguide/results-analysis#811"
+            },
+            {
+              "title": "Performing the simulation",
+              "url": "/articles/userguide/results-analysis#812"
+            },
+            {
+              "title": "Available standard operations and functions",
+              "url": "/articles/userguide/results-analysis#814"
+            },
+            {
+              "title": "Available criterial variables and functions",
+              "url": "/articles/userguide/results-analysis#815"
+            },
+            {
+              "title": "Examples of the criterial functions (for the file *.cst)",
+              "url": "/articles/userguide/results-analysis#813"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
